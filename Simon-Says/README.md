@@ -6,3 +6,5 @@ Game description:
   3. If the user makes a mistake in the sequence, the game is lost and can be started over.
 
 simon_senses.py is an extention to the above simon_says.py game, instead of clicking buttons to replicate the sequence I used different sensors.
+
+link to Youtube video - https://youtu.be/8j06bRrQMns
