@@ -1,5 +1,5 @@
 #--------------------------
-#Amit Yehezkelov 312531262
+#Amit Yehezkelov
 #--------------------------
 
 import RPi.GPIO as GPIO
