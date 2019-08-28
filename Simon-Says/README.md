@@ -1,4 +1,4 @@
-simon_says.py is an implementation of the popular Simon Says game on RaspberryPi, using generic Hardware in order to build a fully-functional physical game.
+simon_says.py is an implementation of the popular Simon Says game on RaspberryPi, using generic hardware in order to build a fully-functional physical game.
 
 Game description:
   1. The computer will generate a sequence of flashing lights, each followed by a unique sound.
@@ -7,4 +7,4 @@ Game description:
 
 simon_senses.py is an extention to the above simon_says.py game, instead of clicking buttons to replicate the sequence I used different sensors.
 
-link to Youtube video - https://youtu.be/8j06bRrQMns
+Demo (Youtube video) - https://youtu.be/8j06bRrQMns
